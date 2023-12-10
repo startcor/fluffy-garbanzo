@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-Test git file
-
-The emergent fix that was done
-=======
 Test git file 
 
 The emergent fix that was done
 New branch added for new-features
->>>>>>> new-features
+
+
+All the clean-up of the merge
+
