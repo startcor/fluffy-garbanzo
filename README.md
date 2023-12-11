@@ -14,3 +14,8 @@
 ## Local git branch
 
   update-readme
+
+## Remove forked
+
+   Setup as Upstream and create pull requests
+
